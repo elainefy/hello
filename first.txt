@@ -1,6 +1,3 @@
-<<<<<<< HEAD
+
 the first one :)
-=======
-the first one
-to win :)
->>>>>>> github/master
+
